@@ -1,0 +1,11 @@
+.shadow {
+  box-shadow: 0 0 15px 5px !important;
+}
+
+.shadow-filter {
+  filter: drop-shadow(0 0 2px #5059ca) !important;
+}
+
+.selected {
+  box-shadow: 0 0 15px 5px red !important;
+}
